@@ -75,7 +75,6 @@ li:hover {
     border: none;
     cursor: pointer;
     outline: none;
-    transition: .5s;
 }
 
 .play-button::before {
@@ -100,12 +99,10 @@ li:hover {
     font-style: italic; 
 }
 
-
 audio {
     width: 100%;
     margin-top: 10px;
 }
-
 
 @media screen and (max-width: 768px) {
     .container {
