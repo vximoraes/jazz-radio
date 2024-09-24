@@ -1,5 +1,5 @@
 # Jazz Radio Playlist
-A playlist project developed to solidify my knowledge of HTML, CSS, and JavaScript during high school.
+Project I created when I was in high school for web development class.
 
 ![jazz-radio](https://github.com/user-attachments/assets/d99cec74-8e01-4470-91a0-dad53496078a)
 
